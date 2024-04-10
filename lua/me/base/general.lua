@@ -20,6 +20,5 @@ vim.opt.backspace = "indent,eol,start"
 
 vim.opt.splitright = true
 vim.opt.splitbelow = true
-vim.opt.termguicolors = true
 
 vim.opt.clipboard = 'unnamedplus'

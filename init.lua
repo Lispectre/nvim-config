@@ -1,5 +1,6 @@
 require("me.base")
 require("me.lazy")
-require("me.lsp")
 
-vim.cmd.colorscheme('evergarden')
+vim.opt.termguicolors = true
+-- vim.opt.background = 'light'
+vim.cmd.colorscheme('melange')
